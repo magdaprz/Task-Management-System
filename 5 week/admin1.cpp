@@ -2,16 +2,16 @@
 #include<vector>
 using namespace std;
 
-class user{
-
-public:
+class Admin{
+private:
     string name;
-    int id;
+    int ID;
 public:
-    bool checkTask();
-    void comment();
+    void acceptFile();
+    void manageUsers();
 };
-int main(){
+ int main(){
 
    return 0;
 }
+

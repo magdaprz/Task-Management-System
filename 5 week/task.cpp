@@ -2,16 +2,15 @@
 #include<vector>
 using namespace std;
 
-class user{
-
+class Task{
 public:
-    string name;
     int id;
+    string name;
 public:
-    bool checkTask();
-    void comment();
+    void deadline();
+    void fileStatus();
 };
-int main(){
+ int main(){
 
    return 0;
 }
