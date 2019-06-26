@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1561224840 source:d:\learnitgirl\final\taskms\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"Admin.h"
+	"Member.h"
+
+1561225962 d:\learnitgirl\final\taskms\include\admin.h
+	<string>
+	"Member.h"
+
+1561225954 d:\learnitgirl\final\taskms\include\member.h
+	<iostream>
+	"Task.h"
+
+1561225944 d:\learnitgirl\final\taskms\include\task.h
+	<iostream>
+
